@@ -1,1 +1,3 @@
-<h1>testing git course</h1>
+### DEACOURSE - TESTING GIT COURSE
+
+<small><i>thanks a lot - credit to new-age theme</i></small>
